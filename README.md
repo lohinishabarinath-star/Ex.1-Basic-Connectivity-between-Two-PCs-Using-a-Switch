@@ -1,6 +1,6 @@
 ## Ex. No 1. 	Basic Connectivity between Two PCs Using a Switch
-# Date : 		
-
+# Date : 15.10.2026	
+# Name : LOHINI S
 # Objective
 
           “To configure and test basic LAN connectivity between two PCs using a switch.”
@@ -13,6 +13,8 @@ ________________________________________
 # Network Topology Diagram
 
 Insert the network topology from Packet Tracer (Screenshot or drawing)
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/73701d20-fcb3-4a98-8728-6f294eae0d01" />
+
 
 ________________________________________
 # IP Addressing Table (if applicable)
@@ -41,6 +43,12 @@ ________________________________________
 # Output (Screenshots / Ping Results)
 
 Insert screenshots showing ping success, configuration, or simulation results.
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/d59e31a8-edd6-4859-bca8-ce6a972c9645" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/a3fe7f7a-697b-44dc-b2dc-8a0364f9b423" />
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/cd03dfd7-7f8a-4075-8dc2-72dd6b9da01d" />
+
 ________________________________________
 # Result
 “Successfully configured and verified basic LAN communication between two PCs using a switch in Cisco Packet Tracer.”
